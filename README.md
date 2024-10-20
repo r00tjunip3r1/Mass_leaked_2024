@@ -46,7 +46,7 @@ I've had enough data for
 *2012comeer
 *6V21wbgad
 *<password>
-*Blink123
+*Bloat129
 *D1lakiss
 *Exigent
 *Groupd2013
@@ -54,7 +54,7 @@ I've had enough data for
 *N0=Acc3ss
 *R9lw4j8khX
 *Status
-*FuckC!MB!7
+*F0ckCiMB!7
 *Telechargement
 *aobo2010
 *baili123com
