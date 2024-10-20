@@ -40,49 +40,45 @@ I've had enough data for
 * Korean
 
 ### 38 passwords rockyou is missing that are ranked top 1000.
-123hfjdk147
-1464688081
-159753qq
-2012comeer
-6V21wbgad
-<password>
-Blink123
-D1lakiss
-Exigent
-Groupd2013
-Indya123
-N0=Acc3ss
-R9lw4j8khX
-Status
-FuckC!MB!7
-Telechargement
-aobo2010
-baili123com
-bhf
-cme2012
-demon1q2w3e
-demon1q2w3e4r
-demon1q2w3e4r5t
-exigent
-g13916055158
-hg0209
-lincogo1
-lizottes
-megaparol12345
-minecraft
-nks230kjs82
-nonmember
-nyq28Giz1Z
-pk3x7w9W
-rr123456rr
-startfinding
-youbye123
-yuantuo2012
-```
+*123hfjdk147
+*1464688081
+*159753qq
+*2012comeer
+*6V21wbgad
+*<password>
+*Blink123
+*D1lakiss
+*Exigent
+*Groupd2013
+*Indya123
+*N0=Acc3ss
+*R9lw4j8khX
+*Status
+*FuckC!MB!7
+*Telechargement
+*aobo2010
+*baili123com
+*bhf
+*cme2012
+*demon1q2w3e
+*demon1q2w3e4r
+*demon1q2w3e4r5t
+*exigent
+*g13916055158
+*hg0209
+*lincogo1
+*lizottes
+*megaparol12345
+*minecraft
+*nks230kjs82
+*nonmember
+*nyq28Giz1Z
+*pk3x7w9W
+*rr123456rr
+*startfinding
+*youbye123
+*yuantuo2012
 
-<p align="center">
-  Like the project? Help me throw more resources at it!
-</p>
 
 
  
