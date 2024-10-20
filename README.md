@@ -40,7 +40,7 @@ I've had enough data for
 * Korean
 
 ### 38 passwords rockyou is missing that are ranked top 1000.
-*123hfjdk147
+* 123hfjdk147
 *1464688081
 *159753qq
 *2012comeer
